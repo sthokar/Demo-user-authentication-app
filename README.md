@@ -1,4 +1,4 @@
-# Demo app for useEffect and Use Reducer Hook
+# Demo app (User authentication)
 An app that utilizes useEffect and useReducer for user authentication
 
 # Features
