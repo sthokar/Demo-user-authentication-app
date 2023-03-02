@@ -1,4 +1,4 @@
-# Demo app (User authentication)
+# User authentication app
 An app that utilizes useEffect and useReducer for user authentication
 
 # Features
