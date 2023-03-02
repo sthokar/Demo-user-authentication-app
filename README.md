@@ -9,3 +9,6 @@ An app that utilizes useEffect and useReducer for user authentication
 # Instructions
 - Use any random email 
 - Password can be any random characters 6 digits or longer
+
+# Check out the awesome app
+- https://login-a44dd.web.app/
